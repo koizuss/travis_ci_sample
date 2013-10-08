@@ -21,6 +21,6 @@ public class AppTest {
     {
 		App sut = new App();
 		int act = sut.sum(1, 2);
-		assertThat(act, is(3));
+		assertThat(act, is(30));
     }
 }
