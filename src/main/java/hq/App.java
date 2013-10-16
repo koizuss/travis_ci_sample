@@ -4,14 +4,13 @@ package hq;
  * Hello world!
  *
  */
-public class App 
+public class App
 {
-    public static void main( String[] args )
-    {
+    public static void main( String[] args ) {
         System.out.println( "Hello World!" );
     }
-    
-    public int sum(int x, int y){
+
+    public int sum(int x, int y) {
     	return x + y;
     }
 }
